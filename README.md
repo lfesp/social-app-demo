@@ -6,7 +6,7 @@
 
 ## Goal 
 
-The goal of this lesson is to add functionality to like/unlike a flutter. We should be able to display how many total likes a flutter has, and if the current user has liked the flutter.
+The goal of this lesson is to add functionality to like/unlike a flutter. We should be able to display how many total likes a flutter has, and if the current user has liked the flutter. 
 
 > Be sure to switch to the `8-lesson` branch in your local environment.
 
